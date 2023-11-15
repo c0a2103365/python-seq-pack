@@ -20,4 +20,7 @@ keras \
 networkx \
 pygraphviz  \
 graphviz \
-lightly
+lightly \
+LightGBM \
+xgboost \
+catboost
